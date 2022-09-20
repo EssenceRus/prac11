@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hi">Добро пожаловать</string>
+    <string name="vvod">Ввод данных</string>
+    <string name="vivod">Вывод данных</string>
+    <string name="name">Имя</string>
+    <string name="surename">Фамилия</string>
+    <string name="numbere">Номер</string>
+    <string name="dob">Добавить</string>
+</resources>
